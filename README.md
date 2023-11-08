@@ -1,4 +1,4 @@
-# Jefferson C. da Costa
+# Jefferson Cristino da Costa
 Olá, sou Jefferson e estou em busca de um novo desafio voltado para área de programação. Atualmente estou desempregado más estudando. Faço faculdade de Sistemas de Informação na [Universidade Federal de Uberlândia - UFU](https://ufu.br/).
 
 
