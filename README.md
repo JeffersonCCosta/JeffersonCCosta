@@ -12,7 +12,7 @@ Olá, sou Jefferson e estou em busca de um novo desafio voltado para área de pr
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![PHP]([https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php))
+![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php)
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
