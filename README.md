@@ -24,9 +24,3 @@ Olá, sou Jefferson e estou em busca de um novo desafio voltado para área de pr
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersonccosta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeffersonccosta&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Minhas Contribuições
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffersonccosta&repo=personagens-Rick-and-Morty&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JeffersonCCosta/personagens-Rick-and-Morty)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffersonccosta&repo=projeto-java-aplicativo-emprestimo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JeffersonCCosta/projeto-java-aplicativo-emprestimo)
